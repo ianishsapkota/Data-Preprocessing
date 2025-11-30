@@ -120,8 +120,3 @@ The script prints:
 1. Encoded target variable array
 2. Preprocessed and scaled training features
 3. Preprocessed and scaled testing features
-
-
-## License
-
-This is a template for educational purposes. Feel free to modify and use in your projects.
